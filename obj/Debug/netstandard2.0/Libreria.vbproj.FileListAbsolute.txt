@@ -1,0 +1,18 @@
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Libreria.deps.json
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Libreria.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Libreria.pdb
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.vbprojAssemblyReference.cache
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.AssemblyInfo.vb
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.pdb
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.vbproj.CoreCompileInputs.cache
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Libreria.vbproj.CopyComplete
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Capa Logica.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Capa Logica.pdb

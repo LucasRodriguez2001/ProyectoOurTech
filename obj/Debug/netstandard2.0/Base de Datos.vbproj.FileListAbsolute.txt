@@ -1,0 +1,22 @@
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Base de Datos.vbprojAssemblyReference.cache
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Base de Datos.AssemblyInfoInputs.cache
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Base de Datos.AssemblyInfo.vb
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Base de Datos.vbproj.CopyComplete
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\BaseDeDatos.deps.json
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\BaseDeDatos.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\BaseDeDatos.pdb
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\BaseDeDatos.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\BaseDeDatos.pdb
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Microsoft.VisualBasic.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Management.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Runtime.Remoting.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.Configuration.Install.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\Microsoft.JScript.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\bin\Debug\netstandard2.0\System.DirectoryServices.dll
+C:\Users\RaiseCool\source\repos\Libreria de clases\obj\Debug\netstandard2.0\Base de Datos.vbproj.CoreCompileInputs.cache
